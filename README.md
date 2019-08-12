@@ -1,0 +1,2 @@
+# blog
+Simple mailing blog
