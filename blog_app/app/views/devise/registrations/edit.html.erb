@@ -32,15 +32,10 @@
   </div>
 
   <div class="field">
-    <%= f.label "digest" %><br />
-    <%= f.text_field :digest %>
-  </div>
-
-  <div class="field">
-    <%= f.label "Digest type:" %><br />
-    <%= f.radio_button :digest, "daily", :checked => (:digest == 'daily') %> <%= "daily" %>
-    <%= f.radio_button :digest, "weekly", :checked => (:digest == 'weekly') %> <%= "weekly" %>
-    <%= f.radio_button :digest, "no_digest", :checked => (:digest == 'no_digest') %> <%= "no digest" %>
+    <%= f.label "Digest type:" %>
+    <%= f.radio_button :digest, 'daily' %>Daily
+    <%= f.radio_button :digest, 'weekly' %>Weekly
+    <%= f.radio_button :digest, 'no_digest' %>No digest
   </div>
 
   <div class="actions">
