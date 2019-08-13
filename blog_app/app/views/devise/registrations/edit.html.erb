@@ -31,6 +31,18 @@
     <%= f.password_field :current_password, autocomplete: "current-password" %>
   </div>
 
+  <div class="field">
+    <%= f.label "digest" %><br />
+    <%= f.text_field :digest %>
+  </div>
+
+  <div class="field">
+    <%= f.label "Digest type:" %><br />
+    <%= f.radio_button :digest, "daily", :checked => (:digest == 'daily') %> <%= "daily" %>
+    <%= f.radio_button :digest, "weekly", :checked => (:digest == 'weekly') %> <%= "weekly" %>
+    <%= f.radio_button :digest, "no_digest", :checked => (:digest == 'no_digest') %> <%= "no digest" %>
+  </div>
+
   <div class="actions">
     <%= f.submit "Update" %>
   </div>
