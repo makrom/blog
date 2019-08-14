@@ -6,6 +6,14 @@ class ApplicationController < ActionController::Base
   #   render html: "hello, world!"
   # end
 
+  def start_mailing
+
+  end
+
+  def stop_mailing
+
+  end
+  
 protected
 
   def configure_permitted_parameters
