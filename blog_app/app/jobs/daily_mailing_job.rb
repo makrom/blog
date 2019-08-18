@@ -3,7 +3,7 @@ class DailyMailingJob < ApplicationJob
 
   def perform(*args)
     d = Date.current
-    daily_digest = Posts.get_posts_by_period(d-1, d)
+    daily_digest = Post.get_posts_by_period(d-1, d)
     User.where(:digest == "daily").find_each do |user|
       logger.info "Mail #{user.email} daily digest"
       PostMailer.post_mail(user.email, "Дайджест новостей за день", daily_digest).deliver_later

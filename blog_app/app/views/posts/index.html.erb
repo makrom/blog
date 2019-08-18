@@ -1,13 +1,13 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Posts</h1>
+<h1>Новости</h1>
 
 <table>
   <thead>
     <tr>
-      <th>Created at</th>
-      <th>Title</th>
-      <th>Content</th>
+      <th>Опубликована</th>
+      <th>Заголовок</th>
+      <th>Содержимое</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -18,9 +18,9 @@
         <td><%= post.created_at %></td>
         <td><%= post.title %></td>
         <td><%= post.content %></td>
-        <td><%= link_to 'Show', post %></td>
-        <td><%= link_to 'Edit', edit_post_path(post) %></td>
-        <td><%= link_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= link_to 'Читать', post %></td>
+        <td><%= link_to 'Изменить', edit_post_path(post) %></td>
+        <td><%= link_to 'Удалить', post, method: :delete, data: { confirm: 'Вы согласны удалить?' } %></td>
       </tr>
     <% end %>
   </tbody>
@@ -28,4 +28,4 @@
 
 <br>
 
-<%= link_to 'New Post', new_post_path %>
+<%= link_to 'Новая', new_post_path %>

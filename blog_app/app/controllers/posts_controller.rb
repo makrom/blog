@@ -5,6 +5,8 @@ class PostsController < ApplicationController
   # GET /posts.json
   def index
     @posts = Post.all
+#    Sidekiq::Cron::Job.create(name: 'Daily mailing worker', cron: '0 6 * * * Europe/Moscow', class: 'DailyMailingWorker')
+#    Sidekiq::Cron::Job.create(name: 'Weekly mailing worker', cron: '0 7 * * 1 Europe/Moscow', class: 'WeeklyMailingWorker')
   end
 
   # GET /posts/1
@@ -71,4 +73,5 @@ class PostsController < ApplicationController
     def post_params
       params.require(:post).permit(:title, :content)
     end
+
 end
