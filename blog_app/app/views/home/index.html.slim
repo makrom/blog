@@ -1,0 +1,12 @@
+h1 Блог новостей
+- if user_signed_in?
+  '<span>Здравствуйте, #{{current_user.email}}</span>
+  =' link_to 'Выйти', destroy_user_session_path, :method => :delete
+  =' link_to 'Редактировать профиль', edit_user_registration_path
+  = link_to 'Управление блогом', posts_path
+- else
+  =' link_to 'Войти', new_user_session_path
+  'или
+  = link_to 'Зарегистрироваться', new_user_registration_path
+p class="notice" = notice
+p class="alert" = alert

@@ -2,6 +2,13 @@
 # Другие переводы на https://github.com/plataformatec/devise/wiki/I18n
 
 ru:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            current_password:
+              blank: "пустой"
   devise:
     confirmations:
       confirmed: "Ваша учётная запись успешно подтверждена."

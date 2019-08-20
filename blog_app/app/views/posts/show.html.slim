@@ -1,0 +1,8 @@
+p id="notice" = notice
+
+p <strong>Заголовок:</strong> #{@post.title}
+
+p <strong>Содержимое:</strong> #{@post.content}
+
+=> link_to 'Изменить', edit_post_path(@post)
+= link_to 'Назад', posts_path

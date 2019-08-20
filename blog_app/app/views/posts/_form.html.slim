@@ -1,0 +1,19 @@
+= form_with(model: post, local: true) do |form|
+  - if post.errors.any?
+    div id="error_explanation"
+      h2 = pluralize(post.errors.count, "error") do
+        невозможно сохранить эту новость:
+      ul
+      - post.errors.full_messages.each do |message|
+        li: = message
+
+  div class="field"
+    = form.label :title, "Заголовок"
+    = form.text_field :title
+
+  div class="field"
+    = form.label :content, "Содержимое"
+    = form.text_area :content
+
+  div class="actions"
+    = form.submit "Сохранить"

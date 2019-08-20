@@ -1,0 +1,24 @@
+p id="notice" #{notice}
+
+h1 Новости
+
+- if @posts.any?
+  table#posts
+    thead
+      tr
+        th Опубликована
+        th Заголовок
+        th Содержимое
+        th colspan="3"
+    - for post in @posts.sort{|x,y| y.created_at <=> x.created_at}
+      tr
+        td.created_at = post.created_at
+        td.title = post.title
+        td.content = post.content
+        td = link_to 'Читать', post
+        td = link_to 'Изменить', edit_post_path(post)
+        td = link_to 'Удалить', post, method: :delete, data: { confirm: 'Вы согласны удалить?' }
+
+br
+
+= link_to 'Новая', new_post_path

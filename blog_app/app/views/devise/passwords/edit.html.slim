@@ -1,0 +1,21 @@
+h2 Изменить пароль
+
+= form_for(resource, as: resource_name, url: password_path(resource_name), html: { method: :put }) do |f|
+  = render "devise/shared/error_messages", resource: resource
+  = f.hidden_field :reset_password_token
+
+  div class="field"
+    = f.label :password, "Новый пароль"
+    - if @minimum_password_length
+      <em>(минимальная длина #{@minimum_password_length} симв.)</em>
+      br
+    = f.password_field :password, autofocus: true, autocomplete: "new-password"
+
+  div class="field"
+    = f.label :password_confirmation, "Повторите новый пароль"
+    = f.password_field :password_confirmation, autocomplete: "off"
+
+  div class="actions"
+    = f.submit "Изменить пароль"
+
+= render "devise/shared/links"
