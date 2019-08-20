@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/29097749?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="makrom/blog" /><meta property="og:url" content="https://github.com/makrom/blog" /><meta property="og:description" content="Simple mailing blog. Contribute to makrom/blog development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDM0MTI1ODM5OjA5NGE0NTQwMjc0MzE5NWY0ZWU0OTI0Mzk0MTVjNDYwOTc0YjhiYWVhMzYxNzRiZDBlYmM0MDkwMmI2ZmI3Y2Y=--287951148d651e79265004d3059a3c0d8a971771">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDM0MTI1ODM5OjRjZDQwODY2YjU0NWE2MTk4ZjNmM2Q3ZjhjZmFlNjFlNGUxYTM0Y2RmYjY1NGIxN2NhZmUxZGM3NjE4MTc3OTY=--0ea0fbbad0fb2db8409a7ba0d9d9fda6f63403d2">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="6E77:1467A:339097:4F48EB:5D5BC7C5" data-pjax-transient>
+  <meta name="request-id" content="FCDD:E779:5F8DCF:92EF46:5D5BC879" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="6E77:1467A:339097:4F48EB:5D5BC7C5" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="696867490536690584" /><meta name="octolytics-actor-id" content="29097749" /><meta name="octolytics-actor-login" content="makrom" /><meta name="octolytics-actor-hash" content="8482e65c0aef5f70e6a95b6e8c6bc11255a06c25f02c250d8d2e6625e1b51631" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="FCDD:E779:5F8DCF:92EF46:5D5BC879" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="696867490536690584" /><meta name="octolytics-actor-id" content="29097749" /><meta name="octolytics-actor-login" content="makrom" /><meta name="octolytics-actor-hash" content="8482e65c0aef5f70e6a95b6e8c6bc11255a06c25f02c250d8d2e6625e1b51631" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="makrom">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NzA3MDdhMzJmYjRjNTlkMTY3ZmFlNWFjNjMzNjllOTE3Y2ZkNTc2NWZhZGJjYTFjMDczMmNlMWUyZmNmZWYxN3x7InJlbW90ZV9hZGRyZXNzIjoiOTUuMTUzLjEyOC4xODciLCJyZXF1ZXN0X2lkIjoiNkU3NzoxNDY3QTozMzkwOTc6NEY0OEVCOjVENUJDN0M1IiwidGltZXN0YW1wIjoxNTY2Mjk2MDA3LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="MDk1Nzg2YWVmMjQ5YjE0YThlNzNmMGM3OGRjMWIyNjg3MDc3YWYwNmYzMmVhMzIyZGZhNmJkMzlmZWJlMGJkMXx7InJlbW90ZV9hZGRyZXNzIjoiOTUuMTUzLjEyOC4xODciLCJyZXF1ZXN0X2lkIjoiRkNERDpFNzc5OjVGOERDRjo5MkVGNDY6NUQ1QkM4NzkiLCJ0aW1lc3RhbXAiOjE1NjYyOTYxODUsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="ACTIONS_V2_ON_MARKETPLACE,MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
@@ -158,7 +158,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=ihWFG/yI720kHUCs4+OB57W8iEWon/Pp9Ug6BT8HQeXueZ6QNfDySSClztU53rUgEZiSri1ToY3m6BFB1UTZeg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=Sgxh1vNF/GeRBQCChNt53HSMh8BtMz2taotgGAxB9/guYHpdOj3hQ5W9jvte5k0b0KidK+j/b8l5K0tc5gJvZw=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -311,7 +311,7 @@
       <img class="avatar" height="20" width="20" alt="@makrom" src="https://avatars0.githubusercontent.com/u/29097749?s=60&amp;v=4" />
       makrom
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="o23ZttkICZACwuhhMxHXMEbMukzVrtUmMIBeXQtDtkjiQo/pwusTB+IZpbtp5TuCuR1St2OSMoZ3aNAT4DGqQg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bYdNIebdqAlSZaFh7zqtXeqgQ4Sureij3YSHp26m4QgsqBt+/T6ynrK+7Lu1zkHvFXGrfxiRDwOabAnphdT9Ag==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -405,7 +405,7 @@
     border
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:29097749,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:29097749,&quot;client_id&quot;:&quot;162252106.1559565208&quot;,&quot;originating_request_id&quot;:&quot;6E77:1467A:339097:4F48EB:5D5BC7C5&quot;,&quot;originating_url&quot;:&quot;https://github.com/makrom/blog/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/makrom/blog/tree/master&quot;}}" data-hydro-click-hmac="478a1fe1cf8aa806c3878185063f7214ca19e648cb6b77aa546ad556f0a399cd">
+    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:29097749,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:29097749,&quot;client_id&quot;:&quot;162252106.1559565208&quot;,&quot;originating_request_id&quot;:&quot;FCDD:E779:5F8DCF:92EF46:5D5BC879&quot;,&quot;originating_url&quot;:&quot;https://github.com/makrom/blog/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/makrom/blog/tree/master&quot;}}" data-hydro-click-hmac="192ef39c1f3cee76e5aec1f2103aec45b63f5cc168ecae929b570fa35b0aa0c4">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -431,7 +431,7 @@
         </div>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="f1+99zHDPQukcjU+3hm08VwCISVk3TMwLGUAWubeKX93uQnnb+gn6wnuIdlGfgjyaIGhOfYywu3+x5XZjnGwHA==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="3iEwn24nCWhr9snb2WbGMk+xbrDYwabE0AiWW8L8jVHWx4SPMAwTiMZq3TxBAXoxezLurEouVxkCqgPYqlMUMg==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -551,17 +551,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-08-20T13:43:27+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-08-20T13:46:25+03:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-08-20T14:13:27+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-08-20T14:16:25+03:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-08-20T17:13:27+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-08-20T17:16:25+03:00">
             in 4 hours
           </button>
         </li>
@@ -613,7 +613,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bak+SaaXokwnAJO8R5q8K9hSDUkqGzU4fCQuJeH2fZ0shmgWvXS428fb3mYdblCZJ4Plspwn0pg7zKBrCoRhlw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dIPExPhtZ3J1QhM8Cv24QeTtZjkdIYKebvL801rlUQc1rJKb44595ZWZXuZQCVTzGzyOwqsdZT4pGnKdsZdNDQ==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -669,10 +669,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lSjy5owm1CB2hevGYewq/YFhhVP50dS7kaFm2kuUmvzAdAFzEoekc0hFXT+glWqlFCIlR4l1Efrx72TSNBEfCA==" />      <input type="hidden" name="repository_id" value="201884542">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="nmyUb76xJEsf/iFfWb9t257vZVG8RnkhBk53GfzLYznLMGf6IBBUGCE+l6aYxi2DC6zFRczivGBmAHURg07mzQ==" />      <input type="hidden" name="repository_id" value="201884542">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:201884542,&quot;client_id&quot;:&quot;162252106.1559565208&quot;,&quot;originating_request_id&quot;:&quot;6E77:1467A:339097:4F48EB:5D5BC7C5&quot;,&quot;originating_url&quot;:&quot;https://github.com/makrom/blog/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/makrom/blog/tree/master&quot;,&quot;user_id&quot;:29097749}}" data-hydro-click-hmac="2fcd574c50a6a3e8c30e6ea1aea22054ea078b65af56a62f4d13fd419216adcd" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:201884542,&quot;client_id&quot;:&quot;162252106.1559565208&quot;,&quot;originating_request_id&quot;:&quot;FCDD:E779:5F8DCF:92EF46:5D5BC879&quot;,&quot;originating_url&quot;:&quot;https://github.com/makrom/blog/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/makrom/blog/tree/master&quot;,&quot;user_id&quot;:29097749}}" data-hydro-click-hmac="7695f06bd79ea5242b8ac1013da684ad85561925211207b122f8ffe27da45615" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Unwatch
           </span>
@@ -743,18 +743,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/makrom/blog/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3zDO7o7CMknP7eEqOhfVSj8N7XFzxFUBXzPy2Ux41M0E1YXYLr9kqzPBNguiNBDPEdv7YynarkWq6qlomQWPqQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/makrom/blog/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5hnsavHnFt9qWVWIFsmy+IfWpnFksUQBXR5mjYM7Gb89/KdcUZpAPZZ1gqmO6nd9qQCwYz6vv0Woxz08VkZC2w==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar makrom/blog" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:201884542,&quot;client_id&quot;:&quot;162252106.1559565208&quot;,&quot;originating_request_id&quot;:&quot;6E77:1467A:339097:4F48EB:5D5BC7C5&quot;,&quot;originating_url&quot;:&quot;https://github.com/makrom/blog/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/makrom/blog/tree/master&quot;,&quot;user_id&quot;:29097749}}" data-hydro-click-hmac="23144e811e51aa71027a52d86de746b88817b2785979664f7d9c5daae02a030e" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar makrom/blog" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:201884542,&quot;client_id&quot;:&quot;162252106.1559565208&quot;,&quot;originating_request_id&quot;:&quot;FCDD:E779:5F8DCF:92EF46:5D5BC879&quot;,&quot;originating_url&quot;:&quot;https://github.com/makrom/blog/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/makrom/blog/tree/master&quot;,&quot;user_id&quot;:29097749}}" data-hydro-click-hmac="a53eaec6ca2153d2c25ec2954ac20dd0d0de1c7fe12a0dbf5cfcd46c660a40a7" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/makrom/blog/stargazers"
            aria-label="0 users starred this repository">
            0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/makrom/blog/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1JhwgmQSSkP6hFQPjurntQcK66paqX3gApVnO7RzWNGtrna0VvS5NDWRT+z+JFOYWEnf6K7N4n9P8tUAQLD4Rw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/makrom/blog/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UaYsoOXKiptlLPSOnc2qDBndlZnMlxdf5jCCKc7mbK4okCqW1yx57Ko5723tAx4hRp6h2zjziMCrVzASOiXMOA==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star makrom/blog" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:201884542,&quot;client_id&quot;:&quot;162252106.1559565208&quot;,&quot;originating_request_id&quot;:&quot;6E77:1467A:339097:4F48EB:5D5BC7C5&quot;,&quot;originating_url&quot;:&quot;https://github.com/makrom/blog/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/makrom/blog/tree/master&quot;,&quot;user_id&quot;:29097749}}" data-hydro-click-hmac="507dce80c7e541a062431ee61e92f2c535aa12ffc7c83e6b2ee4434e9201cebe" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star makrom/blog" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:201884542,&quot;client_id&quot;:&quot;162252106.1559565208&quot;,&quot;originating_request_id&quot;:&quot;FCDD:E779:5F8DCF:92EF46:5D5BC879&quot;,&quot;originating_url&quot;:&quot;https://github.com/makrom/blog/blob/master/README.md&quot;,&quot;referrer&quot;:&quot;https://github.com/makrom/blog/tree/master&quot;,&quot;user_id&quot;:29097749}}" data-hydro-click-hmac="3d7e265a6e701f539c8232051b4cc735924a5d185c6120b6dcbfc5e2c2e7fb54" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/makrom/blog/stargazers"
            aria-label="0 users starred this repository">
@@ -995,13 +995,13 @@
 
     <div>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/makrom/blog/edit/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="F+ziA7nTL/xe47RfRSn/hdj9c6CncOFauUK4ytIqYSJe/8tm78xIQNpQFwqgCzoXr5Andr8La0WY/ukL4fIaoQ==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/makrom/blog/edit/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="U+u7V90DnlE3TqOxlVBVLVmIkBUN3Plnr5eGspeP8xYa+JIyixz57bP9AORwcpC/LuXEwxWnc3iOK9dzpFeIlQ==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Edit this file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/makrom/blog/delete/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CdTYZvDKLe6KixJGG8rCzZRTbeX9EYnbBNFAUKjjLd3krXh9KyTklvszJE31MJ+UB2mH9k5MYLZSSVoqVqcSew==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/makrom/blog/delete/master/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="cB3y6pguXK/8Q4ceo+r6ZPqu/TgIuBou+ptEPQScQXWdZFLxQ8CV1437sRVNEKc9aZQXK7vl80OsA15H+th+0w==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1062,7 +1062,7 @@
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.70047s from unicorn-6cc8cff464-rqtcq">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.32922s from unicorn-69bdd9d4c9-vbvcr">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
