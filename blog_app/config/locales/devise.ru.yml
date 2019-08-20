@@ -8,7 +8,12 @@ ru:
         user:
           attributes:
             current_password:
-              blank: "пустой"
+              blank: "пустой."
+            email:
+              taken: "пользователя уже зарегистрирован в системе."
+              blank: "не задан"
+            password:
+              blank: "не задан"
   devise:
     confirmations:
       confirmed: "Ваша учётная запись успешно подтверждена."

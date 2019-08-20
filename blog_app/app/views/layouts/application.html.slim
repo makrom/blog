@@ -8,4 +8,12 @@ html
     = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload'
     = javascript_include_tag 'application', 'data-turbolinks-track': 'reload'
   body
-    == yield
+    header.navbar.navbar-light.bg-light
+      div.navbar-brand
+        = link_to "BlogApp", root_path
+      div.nav.navbar-right
+        = link_to "Главная", root_path, :class => "nav-item nav-link"
+        = link_to "Блог", posts_path, :class => "nav-item nav-link"
+        = link_to "О приложении", "#", :class => "nav-item nav-link"
+    main.container
+      == yield

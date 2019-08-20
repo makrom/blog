@@ -15,10 +15,13 @@ h1 Новости
         td.created_at = post.created_at
         td.title = post.title
         td.content = post.content
-        td = link_to 'Читать', post
-        td = link_to 'Изменить', edit_post_path(post)
-        td = link_to 'Удалить', post, method: :delete, data: { confirm: 'Вы согласны удалить?' }
+        td
+          button = link_to 'Читать', post
+        td
+          button = link_to 'Изменить', edit_post_path(post)
+        td
+          button = link_to 'Удалить', post, method: :delete, data: { confirm: 'Вы согласны удалить?' }
 
 br
 
-= link_to 'Новая', new_post_path
+button = link_to 'Новая', new_post_path

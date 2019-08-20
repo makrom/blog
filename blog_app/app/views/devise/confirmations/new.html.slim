@@ -5,6 +5,7 @@ h2 Выслать инструкцию для подтверждения рег�
 
   div class="field"
     = f.label :email
+    br
     = f.email_field :email, autofocus: true, autocomplete: "email", value: (resource.pending_reconfirmation? ? resource.unconfirmed_email : resource.email)
 
   div class="actions"

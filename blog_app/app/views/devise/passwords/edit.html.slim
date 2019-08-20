@@ -8,12 +8,14 @@ h2 Изменить пароль
     = f.label :password, "Новый пароль"
     - if @minimum_password_length
       <em>(минимальная длина #{@minimum_password_length} симв.)</em>
-      br
+    br
     = f.password_field :password, autofocus: true, autocomplete: "new-password"
 
   div class="field"
     = f.label :password_confirmation, "Повторите новый пароль"
+    br
     = f.password_field :password_confirmation, autocomplete: "off"
+    br
 
   div class="actions"
     = f.submit "Изменить пароль"

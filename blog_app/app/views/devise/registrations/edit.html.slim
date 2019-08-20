@@ -5,10 +5,12 @@ h2 Изменить профиль
 
   div class="field"
     = f.label :email
+    br
     = f.email_field :email, autofocus: true, autocomplete: "email"
 
   - if devise_mapping.confirmable? && resource.pending_reconfirmation?
     div Ожидается подтверждение для: #{resource.unconfirmed_email}
+  br
 
   div class="field"
     = f.label :password
@@ -18,19 +20,24 @@ h2 Изменить профиль
     - if @minimum_password_length
       br
       <em>минимальная длина #{@minimum_password_length} симв.</em>
+  br
 
   div class="field"
     = f.label :password_confirmation
+    br
     = f.password_field :password_confirmation, autocomplete: "new-password"
+  br
 
   div class="field"
     = f.label :current_password
     <i>(введите текущий пароль для подтверждения изменений)</i>
     br
     = f.password_field :current_password, autocomplete: "current-password"
+  br
 
   div class="field"
     = f.label "Подписка на Дайджест новостей:"
+    br
     = f.radio_button :digest, 'daily'
     'ежедневный
     = f.radio_button :digest, 'weekly'
@@ -40,6 +47,7 @@ h2 Изменить профиль
 
   div class="actions"
     = f.submit "Сохранить"
+  br
 
 h3 Удаление профиля
 div Не нравится?

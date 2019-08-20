@@ -1,20 +1,25 @@
 h2 Вход
 
-== form_for(resource, as: resource_name, url: session_path(resource_name)) do |f|
-  div class="field"
+= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f|
+  div.field
     = f.label :email
+    br
     = f.email_field :email, autofocus: true, autocomplete: "email"
-
-  div class="field"
+  br
+  div.field
     = f.label :password
+    br
     = f.password_field :password, autocomplete: "current-password"
+    br
 
   - if devise_mapping.rememberable?
-    div class="field"
+    div.field
       = f.check_box :remember_me
+      br
       = f.label :remember_me
+      br
 
-  div class="actions"
+  div.actions
     = f.submit "Войти"
 
-== render "devise/shared/links"
+= render "devise/shared/links"
